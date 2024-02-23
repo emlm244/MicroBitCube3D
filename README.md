@@ -41,11 +41,6 @@ Contributions to `MicroBitCube3D` are welcome! If you have suggestions for impro
 
 `MicroBitCube3D` is not affiliated with or endorsed by Micro:Bit or any related entities.
 
-<script src="https://makecode.com/gh-pages-embed.js"></script>
-<script>
-    makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");
-</script>
-
 #### Metadata (used for search, rendering)
 
 * for PXT/microbit
