@@ -1,7 +1,3 @@
-## Getting Started
-
-To get started with `MicroBitCube3D`, follow these simple steps:
-
 ### Use as an Extension
 
 You can add this repository as an extension in MakeCode:
