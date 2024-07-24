@@ -1,11 +1,3 @@
-# MicroBitCube3D
-
-Welcome to the `MicroBitCube3D` project! This repository is dedicated to a 3D cube rotation simulation designed for the Micro:Bit platform.
-
-## Project Overview
-
-`MicroBitCube3D` brings to life the concept of 3D graphics in a simple and interactive way(ish). It uses TypeScript to project a rotating 3D cube onto a 2D screen, showcasing real-time 3D to 2D projection and rotation through a 5 by 5 limited 25 LED Screen.
-
 ## Getting Started
 
 To get started with `MicroBitCube3D`, follow these simple steps:
@@ -31,11 +23,7 @@ To edit this project in MakeCode:
 
 - Real-time 3D to 2D projection
 - Interactive cube rotation using Micro:Bit buttons
-- Customizable rotation speed and projection parameters
-
-## Contributing
-
-Contributions to `MicroBitCube3D` are welcome! If you have suggestions for improvement or want to contribute to the code, please feel free to create a pull request or open an issue.
+- Customizable rotation speed and projection parameters.
 
 ---
 
